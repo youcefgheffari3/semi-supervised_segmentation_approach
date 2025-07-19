@@ -18,7 +18,9 @@ Reproduces the CVPR 2020 pipeline for **semi-supervised semantic segmentation** 
 6️⃣ Evaluation: Reports **mean IoU (mIoU)** on VOC 2012 validation set  
 
 ---
+## 📊 Pipeline Diagram
 
+![Pipeline Diagram](outputs/pipeline_diagram.png)
 ## 📂 Project Structure
 ```
 datasets/
