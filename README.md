@@ -2,7 +2,7 @@
 
 📚 **Paper Reproduced:**  
 **Ibrahim et al., CVPR 2020**  
-["Semi-Supervised Semantic Segmentation with Self-Correcting Networks"](https://openaccess.thecvf.com/content_CVPR_2020/html/Ibrahim_Semi-Supervised_Semantic_Segmentation_With_Self-Correcting_Network_CVPR_2020_paper.html)
+["Semi-Supervised Semantic Segmentation with Self-Correcting Networks"](https://openaccess.thecvf.com/content_CVPR_2020/html/Ibrahim_Semi-Supervised_Semantic_Image_Segmentation_With_Self-Correcting_Networks_CVPR_2020_paper.html)
 
 ---
 
@@ -10,6 +10,7 @@
 Reproduces the CVPR 2020 pipeline for **semi-supervised semantic segmentation** on VOC 2012.
 
 **Core Steps:**
+
 1️⃣ Fully-Labeled Set: Images + masks  
 2️⃣ Weak Set: Images + bounding box heatmaps  
 3️⃣ Ancillary Model: Trained on fully-labeled data  
@@ -18,7 +19,9 @@ Reproduces the CVPR 2020 pipeline for **semi-supervised semantic segmentation** 
 6️⃣ Evaluation: Reports **mean IoU (mIoU)** on VOC 2012 validation set  
 
 ---
+## 📊 Pipeline Diagram
 
+![Pipeline Diagram](outputs/pipeline_diagram.png)
 ## 📂 Project Structure
 ```
 datasets/
