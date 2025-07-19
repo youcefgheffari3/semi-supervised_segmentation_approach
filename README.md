@@ -10,6 +10,7 @@
 Reproduces the CVPR 2020 pipeline for **semi-supervised semantic segmentation** on VOC 2012.
 
 **Core Steps:**
+
 1️⃣ Fully-Labeled Set: Images + masks  
 2️⃣ Weak Set: Images + bounding box heatmaps  
 3️⃣ Ancillary Model: Trained on fully-labeled data  
