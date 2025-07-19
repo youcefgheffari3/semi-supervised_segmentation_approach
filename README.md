@@ -2,7 +2,7 @@
 
 📚 **Paper Reproduced:**  
 **Ibrahim et al., CVPR 2020**  
-["Semi-Supervised Semantic Segmentation with Self-Correcting Networks"](https://openaccess.thecvf.com/content_CVPR_2020/html/Ibrahim_Semi-Supervised_Semantic_Segmentation_With_Self-Correcting_Network_CVPR_2020_paper.html)
+["Semi-Supervised Semantic Segmentation with Self-Correcting Networks"](https://openaccess.thecvf.com/content_CVPR_2020/html/Ibrahim_Semi-Supervised_Semantic_Image_Segmentation_With_Self-Correcting_Networks_CVPR_2020_paper.html)
 
 ---
 
